@@ -2,9 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # =============================================================================
-# HÀM GWO (ĐÃ TÍCH HỢP DYNAMIC WEIGHT 4.0 - DỄ QUAN SÁT)
-# - Ghi lại lịch sử trọng số cho variant 'weighted_dynamic'
-# - a(t) giảm chậm hơn (explore lâu)
+# HÀM GWO 
 # =============================================================================
 
 def GWO(fobj, lb, ub, dim, SearchAgents_no, Max_iter, variant='original', record_weights=False):
