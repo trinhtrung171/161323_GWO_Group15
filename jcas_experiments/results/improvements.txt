@@ -1,0 +1,7 @@
+PHẦN TRĂM CẢI THIỆN SO VỚI TSILS (PHƯƠNG PHÁP GỐC)
+==================================================
+Baseline (TSILS): 10.518143
+
+GWO: +164.33%
+WDGWO: +160.03%
+CGWO: +146.58%

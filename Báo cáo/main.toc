@@ -1,0 +1,94 @@
+\contentsline {section}{TÓM TẮT}{i}{table.caption.2}%
+\contentsline {section}{\numberline {1}THUẬT TOÁN GWO NGUYÊN BẢN}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Nguồn cảm hứng Sinh học}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Cấu trúc Phân cấp Xã hội}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Cơ chế Săn mồi}{2}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Mô hình Toán học}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Bao vây con mồi (Encircling)}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Săn mồi (Hunting) - Cập nhật vị trí Omega}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Thăm dò và Khai thác (Tham số \textit {a} và các Vector)}{4}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Mã giả Thuật toán GWO (Pseudocode)}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}PHÂN TÍCH VẤN ĐỀ VÀ CÁC BIẾN THỂ CẢI TIẾN CỦA GWO}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Các Hạn chế Cố hữu của GWO Nguyên bản}{7}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Nguy cơ Hội tụ sớm (Sa vào Tối ưu Cục bộ)}{7}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Tốc độ hội tụ chậm về cuối (Thiếu bứt phá)}{7}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Các Biến thể Cải tiến và Giải pháp}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Biến thể về Tham số Kiểm soát (Modified Control Parameter)}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Biến thể Hỗn loạn (Chaotic GWO - CGWO)}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Biến thể dựa trên Trọng số (Weighted GWO)}{9}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}THỰC NGHIỆM VÀ ĐÁNH GIÁ}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Kiểm chứng nhanh trên Hàm chuẩn Rosenbrock}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Định nghĩa và Đặc điểm}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Thiết lập thí nghiệm}{10}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Kết quả so sánh hội tụ}{10}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Ứng dụng trọng tâm: Giải quyết bài toán Người du lịch (TSP)}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Cơ chế Mã hóa Khóa Ngẫu nhiên (Random Key Encoding)}{12}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Thuật toán Weighted Dynamic GWO cho TSP}{12}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Phân tích kết quả thực nghiệm}{14}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Tốc độ hội tụ và Khả năng tìm kiếm:}{14}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Cơ chế thích nghi của Trọng số trong không gian rời rạc: }{14}{paragraph.3.2.3.2}%
+\contentsline {paragraph}{\numberline {3.2.3.3}Chất lượng lộ trình và Vấn đề "Giao điểm chết": }{15}{paragraph.3.2.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}So sánh với các thuật toán metaheuristic khác}{16}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Kết luận chương 3}{17}{subsection.3.3}%
+\contentsline {section}{\numberline {4}ỨNG DỤNG GWO VÀO BÀI TOÁN TRUYỀN THÔNG: JCAS MULTIBEAM OPTIMIZATION}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Giới thiệu bài toán JCAS}{18}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Bối cảnh và Động lực}{18}{subsubsection.4.1.1}%
+\contentsline {paragraph}{\numberline {4.1.1.1}Bài toán Truyền thông JCAS là gì?}{18}{paragraph.4.1.1.1}%
+\contentsline {paragraph}{\numberline {4.1.1.2}Tại sao bài toán này quan trọng?}{18}{paragraph.4.1.1.2}%
+\contentsline {paragraph}{\numberline {4.1.1.3}Thách thức kỹ thuật:}{18}{paragraph.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.2}Mô hình toán học chi tiết}{19}{subsubsection.4.1.2}%
+\contentsline {paragraph}{\numberline {4.1.2.1}1. Hệ thống Anten - Uniform Linear Array (ULA):}{19}{paragraph.4.1.2.1}%
+\contentsline {paragraph}{\numberline {4.1.2.2}2. Steering Vector:}{19}{paragraph.4.1.2.2}%
+\contentsline {paragraph}{\numberline {4.1.2.3}3. Array Response Pattern (Radiation Pattern):}{19}{paragraph.4.1.2.3}%
+\contentsline {paragraph}{\numberline {4.1.2.4}4. Equivalent Directions:}{19}{paragraph.4.1.2.4}%
+\contentsline {subsubsection}{\numberline {4.1.3}Hàm mục tiêu (Objective Function)}{19}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Biến quyết định và Không gian tìm kiếm}{20}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}So sánh với Bài toán TSP}{20}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}Biến quyết định và Không gian tìm kiếm}{21}{subsubsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.2}Thiết lập thí nghiệm}{22}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Tham số thử nghiệm}{22}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Các thuật toán được so sánh}{22}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Mã giả các thuật toán}{22}{subsubsection.4.2.3}%
+\contentsline {paragraph}{\numberline {4.2.3.1}TSILS - Two-Step Iterative Least Squares:}{23}{paragraph.4.2.3.1}%
+\contentsline {paragraph}{\numberline {4.2.3.2}WDGWO - Weighted Dynamic GWO:}{24}{paragraph.4.2.3.2}%
+\contentsline {paragraph}{\numberline {4.2.3.3}CGWO - Chaotic GWO với Tent Map:}{25}{paragraph.4.2.3.3}%
+\contentsline {subsection}{\numberline {4.3}Kết quả thực nghiệm: So sánh các thuật toán}{25}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Bảng thống kê tổng hợp}{25}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Nhận xét và Phân tích}{26}{subsubsection.4.3.2}%
+\contentsline {paragraph}{\numberline {4.3.2.1}GWO nguyên bản (Baseline):}{26}{paragraph.4.3.2.1}%
+\contentsline {paragraph}{\numberline {4.3.2.2}Weighted Dynamic GWO (WDGWO):}{26}{paragraph.4.3.2.2}%
+\contentsline {paragraph}{\numberline {4.3.2.3}Chaotic GWO (CGWO):}{26}{paragraph.4.3.2.3}%
+\contentsline {subsection}{\numberline {4.4}Đồ thị hội tụ}{27}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Phân phối fitness cuối cùng (Boxplot)}{28}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Beam Patterns của các solution tốt nhất}{29}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Metrics chi tiết của solution tốt nhất}{30}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Kiểm định thống kê (Statistical Significance Test)}{30}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Phân tích độ phức tạp tính toán}{31}{subsubsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.8}Phần trăm cải thiện so với TSILS baseline}{32}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Thảo luận và Giải thích}{32}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}So sánh GWO vs TSILS}{32}{subsubsection.4.9.1}%
+\contentsline {paragraph}{\numberline {4.9.1.1}Tại sao GWO vượt trội hơn TSILS?}{32}{paragraph.4.9.1.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}So sánh giữa các biến thể GWO}{32}{subsubsection.4.9.2}%
+\contentsline {paragraph}{\numberline {4.9.2.1}1. Đặc điểm không gian tìm kiếm:}{32}{paragraph.4.9.2.1}%
+\contentsline {paragraph}{\numberline {4.9.2.2}2. Độ phức tạp landscape:}{33}{paragraph.4.9.2.2}%
+\contentsline {paragraph}{\numberline {4.9.2.3}3. Sự cân bằng exploration-exploitation:}{33}{paragraph.4.9.2.3}%
+\contentsline {subsection}{\numberline {4.10}Kết luận}{33}{subsection.4.10}%
+\contentsline {subsubsection}{\numberline {4.10.1}Kết quả chính}{33}{subsubsection.4.10.1}%
+\contentsline {subsubsection}{\numberline {4.10.2}Bài học kinh nghiệm (Lessons Learned)}{33}{subsubsection.4.10.2}%
+\contentsline {section}{\numberline {5}KẾT LUẬN VÀ ĐÁNH GIÁ}{34}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Tóm tắt các kết quả đạt được}{34}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}1. Hiểu sâu về GWO nguyên bản}{34}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}2. Phân tích các biến thể cải tiến}{34}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}3. Thực nghiệm trên bài toán TSP}{34}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}4. Ứng dụng vào bài toán JCAS Multibeam Optimization}{35}{subsubsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.2}Những hiểu biết sâu sắc (Insights)}{35}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}No Free Lunch Theorem trong thực tế}{35}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Tầm quan trọng của Domain Knowledge}{35}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}GWO vượt trội hơn phương pháp truyền thống}{35}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Hạn chế của nghiên cứu}{36}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Hướng phát triển tiềm năng}{36}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}1. Adaptive Parameter Control}{36}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}2. Hybrid Approaches}{36}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}3. Ứng dụng rộng hơn trong Truyền thông}{36}{subsubsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.5}Kết luận cuối cùng}{37}{subsection.5.5}%
+\contentsline {section}{TÀI LIỆU THAM KHẢO}{38}{subsection.5.5}%
